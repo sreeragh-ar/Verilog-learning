@@ -5,3 +5,4 @@ always @ (input_1 or input_2) //sensitivity list - change in any of the signals 
 
 // The above code is equivalent to 
 //   assign and_gate = input_1 & input_2
+// always key word is normally not used for combinational circuits
