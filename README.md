@@ -1,7 +1,12 @@
 # Introduction to Verilog
 
-* To compile helloworld
-`iverilog hello.v -o hello`
+Codes are based on the below tutorial
+https://www.nandland.com/verilog/tutorials/tutorial-introduction-to-verilog-for-beginners.html
+
+
+
+* To compile
+`iverilog file_name.v -o out`
 
 * To run
-`vvp hello`
+`vvp out`
